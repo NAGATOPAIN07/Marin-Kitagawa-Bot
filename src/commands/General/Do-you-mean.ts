@@ -19,7 +19,7 @@ export default class Command extends BaseCommand {
         let chitoge = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: chitoge }, MessageType.video, {
             mimetype: Mimetype.gif,
-            caption: `Those who do not understand true pain, can never understand true peace. use *${this.client.config.prefix}help*? \n` }
+            caption: `IF YOU WANTS TO KNOW TRUE PAIN. use *${this.client.config.prefix}help*? \n` }
         )
     }
 }
