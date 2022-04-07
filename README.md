@@ -11,13 +11,12 @@
 
 > A Fully Modular and Efficient Yotsuba Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Aries-27/Marin-Kitagawa-Bot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/NAGATOPAIN07/Marin-Kitagawa-Bot)
 
 </div><br/>
 <br/>
 Button : If you are deploying from a fork if you want to deploy Marin Kitagawa-Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 </div><br/>
 
