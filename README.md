@@ -3,7 +3,7 @@
 <a href="https://github.com/Nagato-pain/"><img src="https://c.tenor.com/nGh9xPA26EAAAAAM/aggies.gif*
 " alt="chitoge" border="0"></a>
 
-👁️PAIN: A WhatsApp BOT⛓️👁️ WITH RICH✨ NSFW🔞FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
+👁️GOJO: A WhatsApp BOT⛓️👁️ WITH RICH✨ NSFW🔞FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
@@ -15,7 +15,7 @@
 
 </div><br/>
 <br/>
-Button : If you are deploying from a fork if you want to deploy Nagato Pain-Bot
+Button : If you are deploying from a fork if you want to deploy GOJO SATARUO
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
@@ -53,8 +53,8 @@ Button : If you are deploying from a fork if you want to deploy Nagato Pain-Bot
   <img src="https://contrib.rocks/image?repo=ShineiIchijo/Chitoge" />
 </a>
 
-## I don't have any contributers LOL 😂
-## 📄 License
+## I don't have any contributers LOL 😂 
+## 📄 Licens
 
 Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE)
 for more information.
