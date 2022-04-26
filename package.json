@@ -1,5 +1,5 @@
 {
-    "name": "Elaina",
+    "name"Gojo-saturo",
     "version": "3.0.0",
     "description": "A WhatsApp Bot With Rich Anime Features.",
     "main": "dist/chitoge.js",
@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Aries-27/Marin-Kitagawa-Bot.git"
+        "url": "git+https://github.com/nagatopain07/gojo-saturo.bot.git"
     },
     "keywords": [
         "bot",
