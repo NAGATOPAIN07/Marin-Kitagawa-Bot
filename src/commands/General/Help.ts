@@ -23,7 +23,7 @@ export default class Command extends BaseCommand {
         let well = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: well }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
-            caption: `Konnichiwa👋 ɪ ᴀᴍ ELAINA💖💘!
+            caption: `wammaiwa!
 
 ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ MY OWNER! If I you want to add bot in your gc than kindly contact the owner Ａｋａ付きｐａｉｎ !
 
