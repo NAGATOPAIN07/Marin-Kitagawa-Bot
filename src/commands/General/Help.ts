@@ -18,14 +18,14 @@ export default class Command extends BaseCommand {
 
     run = async (M: ISimplifiedMessage): Promise<void> => {
         const n = [
-            'https://c.tenor.com/S_fOSRz1ngcAAAPo/majo-no-tabitabi-the-journey-of-elaina.mp4','https://c.tenor.com/FTryuAk9O1sAAAPo/majo-no-tabitabi-the-journey-of-elaina.mp4'
+            'https://tenor.com/bJ4nC.gif'
         ]
         let well = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: well }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
             caption: `Konnichiwa👋 ɪ ᴀᴍ ELAINA💖💘!
 
-ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ MY OWNER! If I you want to add bot in your gc than kindly contact the owner !
+ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ MY OWNER! If I you want to add bot in your gc than kindly contact the owner Ａｋａ付きｐａｉｎ !
 
 ᴍʏ ᴘʀᴇғʀɪx ${this.client.config.prefix}
 
