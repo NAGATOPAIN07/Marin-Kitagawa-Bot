@@ -1,5 +1,5 @@
 {
-    "name"Gojo"
+    "name": "Gojo"
     "version": "3.0.0",
     "description": "A WhatsApp Bot With Rich Anime Features.",
     "main": "dist/chitoge.js",
@@ -25,7 +25,7 @@
     "bugs": {
         "url": "https://github.com/ShineiIchijo/Chitoge/issues"
     },
-    "homepage": "https://github.com/Aries-27/Marin-Kitagawa-Bot.git",
+    "homepage": "https://github.com/Nagatopain07/gojo-saturo.bot.git",
     "devDependencies": {
         "@types/express": "^4.17.12",
         "@types/fs-extra": "^9.0.11",
